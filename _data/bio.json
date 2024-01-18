@@ -11,6 +11,7 @@
     "profiles": [
       { "network": "github", "username": "krafael4", "url": "http://github.com/krafael4" },
       { "network": "instagram", "username": "kody_boi", "url": "http://instagram.com/kody_boi" }
+      { "network": "spotify", "username": "kodyboi", "url": "https://open.spotify.com/user/kodyboi" }
     ]
   },
   "interests": [
