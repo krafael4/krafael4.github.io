@@ -1,65 +1,88 @@
 {
-  "basics": {
-    "name": "Kody Rafael",
-    "label": "Shidler Undergraduate",
-    "picture": "https://github.com/krafael4.png",
-    "email": "krafael@hawaii.edu",
-    "phone": "",
-    "website": "https://krafael4.github.io",
-    "summary": "I am studying for a B.B.A in Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "krafael4", "url": "http://github.com/krafael4" },
-      { "network": "instagram", "username": "kody_boi", "url": "http://instagram.com/kody_boi" }
-    ]
-  },
-  "interests": [
-    { "name": "Music" },
-    { "name": "Gaming" },
-    { "name": "Cooking" },
-    { "name": "Cars" },
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Spring, 2026)",
-      "studyType": "B.B.A",
-      "startDate": "2022",
-      "endDate": "Present",
-      "courses": [
+  "basics":{
+      "name":"Kody Rafael",
+      "label":"Shidler Undergraduate",
+      "picture":"https://github.com/krafael4.png",
+      "email":"krafael@hawaii.edu",
+      "phone":"",
+      "website":"https://krafael4.github.io",
+      "summary":"I am studying for a B.B.A in Management Information Systems at the University of Hawaii. I expect to graduate in Spring, 2026.",
+      "location":{
+         "address":"",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"krafael4",
+            "url":"http://github.com/krafael4"
+         },
+         {
+            "network":"instagram",
+            "username":"kody_boi",
+            "url":"http://instagram.com/kody_boi"
+         }
       ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Maryknoll Grade School",
-      "position": "After School Leader",
-      "website": "",
-      "startDate": "2023",
-      "endDate": "Present",
-      "summary": "Leader for extended learning programming, specifically grades K-8",
-      "highlights": [
-        "Observe and keep students safe",
-        "Faciliate after-school activities",
-        "Provide a safe and quiet place for students to do work"
-      ]
-    },
-    {
-      "company": "Da Ultimate Grindz ",
-      "position": "Cook",
-      "website": "https://www.daultimategrindzhi.com/",
-      "startDate": "2019",
-      "endDate": "Present",
-      "summary": "Demanding job that requires team work and drive",
-      "highlights": [
-        "Prep food/ingredients, cook, clean, cater, ",
-        "Work with owners in finding possible venue locations"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+   },
+   "interests":[
+      {
+         "name":"Music"
+      },
+      {
+         "name":"Gaming"
+      },
+      {
+         "name":"Cooking"
+      },
+      {
+         "name":"Cars"
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems (expected Spring, 2026)",
+         "studyType":"B.B.A",
+         "startDate":"2022",
+         "endDate":"Present",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Maryknoll Grade School",
+         "position":"After School Leader",
+         "website":"",
+         "startDate":"2023",
+         "endDate":"Present",
+         "summary":"Leader for extended learning programming, specifically grades K-8",
+         "highlights":[
+            "Observe and keep students safe",
+            "Faciliate after-school activities",
+            "Provide a safe and quiet place for students to do work"
+         ]
+      },
+      {
+         "company":"Da Ultimate Grindz ",
+         "position":"Cook",
+         "website":"https://www.daultimategrindzhi.com/",
+         "startDate":"2019",
+         "endDate":"Present",
+         "summary":"Demanding job that requires team work and drive",
+         "highlights":[
+            "Prep food/ingredients, cook, clean, cater, ",
+            "Work with owners in finding possible venue locations"
+         ]
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request"
+      }
+   ]
 }
