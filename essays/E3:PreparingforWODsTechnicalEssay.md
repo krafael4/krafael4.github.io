@@ -7,7 +7,8 @@ date: 2024-02-24
 published: true
 labels:
   - Essay
-  - E3: Wods
+  - E3
+  - Wods
 ---
 
 ## Invoice 1
