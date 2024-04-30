@@ -11,10 +11,10 @@ labels:
 
 ## Provide a brief introduction to the assignment along with a link to this page for further details
 
- Assignment 2 is a continuation of assignment one but with the added benefits of a login page, registration page, and some security parameters. If you are interested in the details, look[HERE](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html).
+ Assignment 2 is a continuation of assignment one but with the added benefits of a login page, registration page, and some security parameters. If you want the details, look [HERE](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html).
 
 
- ## What did you learn from this assignment?
+## What did you learn from this assignment?
  
  I learned a lot from this assignment, but the main takeaway is the creation of login and registration forms. Specifically, I learned how to dynamically and locally add data through server.js and HTML. Additionally, I learned how to create specific guidelines for input text. For example, I learned how to set guidelines for an email. Specifically, how to limit characters and keep an email's format. Lastly, I learned how to grind code in a matter of hours. I regrettably learned that I should add more workload to my days. 
 
