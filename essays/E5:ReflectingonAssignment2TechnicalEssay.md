@@ -17,8 +17,7 @@ labels:
  
  I learned a lot from this assignment, but the main takeaway is the creation of login and registration forms. Specifically, I learned how to dynamically and locally add data through server.js and HTML. Additionally, I learned how to create specific guidelines for input text. For example, I learned how to set guidelines for an email. Specifically, how to limit characters and keep an email's format. Lastly, I learned how to grind code in a matter of hours. I regrettably learned that I should add more workload to my days. 
 
-## Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
-How did you get help when you needed it? What did you need help with?
+## Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself). How did you get help when you needed it? What did you need help with?
 
 I did not work with a partner; instead, I worked with Professor Port and ChatGPT. If I needed help with code, I messaged Professor Port on discord. I also "RTFM'ed" code or got help from ChatPGT. I needed help making input texts sticky and adding the quantities to the query string. Also, I used Professor Port's screencast for help. 
 
