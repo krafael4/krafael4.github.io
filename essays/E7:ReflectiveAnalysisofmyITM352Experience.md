@@ -4,13 +4,30 @@ type: essay
 title: "E5: Reflecting on Assignment 2 Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-05
-published: false
+published: true
 labels:
 ---
 
 ## 1. Course Goals ITM 352 has the following goals:
 
-### 1.1 
+### 1.1 Acquiring basic programming ... 
+A great example of this goal would be Assignment 1. In Assignment 1, I felt my basic programming skills come into play. I was able to utilize everything I learned from the beginning of the semester up until that point. For example, I was able to use CSS styling to format objects in a systematic and correct manner that displays functionality. 
+
+### 1.2 Understanding why MIS people need ... 
+Again, I would say that Assignment 1 is a good indicator for this goal. Without the ability to do basic coding, your website would not even be published or work. Assignment 1 was a guided assignment, and the only thing we needed to do was edit and basic code. 
+
+### 1.3 Gaining hands-on experience in ... 
+I would say that the WODs and Assignments were where I gained hands-on experience. The most obvious are the Assignments, which allowed me to create an application that works solely on coding. For example, I needed to find a way to get my purchased data into my invoice that displayed all the prices and whatnot. The WODs were another good indication of the goal because the WOD practice appeared in the later projects we worked on. 
+
+### 1.4 Experiencing first-hand MIS ... 
+The Assignments were the first time I faced a ton of problems. Honestly, it was a headache, and I did not enjoy it much. One of the problems I recall was making the error messages pop up where the textbox was. Eventually, when I fixed that issue, another issue sprung up (the styling shifted). 
+
+### 1.5 Experiencing and Understanding First-hand Project... 
+I think I am using the Assignments a lot, but it's true. The assignments were a good indicator for project management, specifically how I tackled the issues systematically. Sadly, I did not get to work in teams, but that would have been beneficial for finishing the project earlier. I would also assume it would have been fun. 
+
+### 1.6 Gaining confidence in addressing ... 
+My overall course experience is a great indicator. Each lab, each WOD, and each assignment improved my ability to find issues and address them properly. I usually sought the console or inspected the website to see the errors. Overall, each day at ITM made me a little bit more confident. 
+
 
 ## 2. Course Elements and Personal Engagement
 
@@ -23,7 +40,7 @@ I gained a lot from the WODs. Specifically, I gained many skills related to pers
 ### 2.3 Were the quizzes ... 
 The quizzes didn't really help me prepare for the labs. To be honest, I felt like they limited your reading. All you needed to do was pick out specific points from the reading and use them for the quiz. I believe that just reading the posts was the best way to prepare for the labs. I did not really pay attention to the quizzes, although I did them all fairly well. 
 
-### 2.4 and 2.5 What did you learn from ... 
+### 2.4 and 2.5 What did you learn from ... labs/essays
 The labs were a great way to put the readings into practice. I felt like I learned a lot, and my favorite lab was about forms. I felt like the whole lab went smoothly, and I even got the opportunity to help my friend (who is way better than me at coding). Additionally, I learned that the labs were quite simple. Most of the time, the questions had embedded directions (which were very specific). On the other hand, I learned how to write again with essays. This semester offered me little practice with writing, but these essays gave me the opportunity to stretch my legs a little. It made me learn how to examine myself and my situation. Overall, I learned a lot about myself and my coding with these essays. 
 
 ### 2.6 What did you learn from doing Assignment ...
