@@ -14,13 +14,16 @@ labels:
 
 ## 3. Challenges and Achievements
 
+### 3.1 and 3.2 Detail the specific/ Explain how you overcame... 
+I remember encountering two specific challenges: understanding what code meant and how to find issues within the code. Finding issues in code was the most annoying, especially the WODs. Whenever I found an error and took too long, I had to stop the timer and re-record the video. This proved rather annoying, especially if I was already filming for a long time. The other challenge is understanding what the code meant. To overcome these challenges, all I could do was get over the challenge and keep on going. With this mindset, it forced me to learn how to do things. There is no way to sugarcoat it, but just by doing it. 
+
+### 3.3 Highlight any particular ... 
+There were not many significant achievements or milestones for me because I felt pretty average at everything. If I were to label an achievement, it was that the "forms" lab clicked instantly for me. I did not struggle with what the code meant or how to code; it just clicked with me. While paying attention during the lesson likely contributed to my success, the reason why it clicked with me remains a mystery. I guess it serves as a reminder of the unpredictable nature of learning. Other than that, I don't know any achievements or milestones. 
+
 ## 4. Skill Development and Application
 
-### 4.1 Reflect on the three skills ... 
-The three levels in this course include syntactic, algorithmic, and application. Syntactic relates to understanding or writing code. Algorithmic is designing algorithms. Application is taking the first two levels and applying them to something like a website. I would say that the first level was the hardest for me to get out of. I did not know any code, and understanding the basic topics was very difficult for me. I think the most difficult concept for me to wrap my head around was the different coding languages. This level was very stressful as well because we kept on moving to different topics each week. I would have to admit there were tears because of this level. The next level would be algorithmic. This was another very difficult level as we had to take our understanding of how to write code, but now create code from the start. The difficulty came from thinking of what to code and how to code it. The last level is application, which was the easiest. It combined everything we have been doing, including labs, WODs, and exercises. I would say that I progressed fairly quickly at this level. 
-
-### 4.2 Describe how the hands-on ... 
-
+### 4.1 and 4.2 Reflect on the three skills/ Describe how the hands-on ... 
+The three levels in this course include syntactic, algorithmic, and application. Syntactic relates to understanding or writing code. Algorithmic is designing algorithms. Application is taking the first two levels and applying them to something like a website. I would say that the first level was the hardest for me to get out of. I did not know any code, and understanding the basic topics was very difficult for me. I think the most difficult concept for me to wrap my head around was the different coding languages. This level was very stressful as well because we kept on moving to different topics each week. I would have to admit there were tears because of this level. The next level would be algorithmic. This was another very difficult level as we had to take our understanding of how to write code, but now create code from the start. The difficulty came from thinking of what to code and how to code it. The last level is application, which was the easiest. It combined everything we have been doing, including labs, WODs, and exercises. I would say that I progressed fairly quickly at this level. The hands-on experience with web-based e-service greatly enhanced my understanding of MIS issues. In my opinion, these two assignments were the greatest lessons of this course. They showed me that perseverance is very important and without it, you may fall behind and get discouraged to continue. 
 
 
 ## 5. Use of AI (e.g. ChatGPT)
