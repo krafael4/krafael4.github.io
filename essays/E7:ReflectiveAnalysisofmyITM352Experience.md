@@ -10,12 +10,29 @@ labels:
 
 ## 1. Course Goals ITM 352 has the following goals:
 
+### 1.1 
+
 ## 2. Course Elements and Personal Engagement
+
+### 2.1 What did you learn from creating ... 
+From creating a professional portfolio, I learned how to market myself in a creative way. I also learned how to do simple coding that implements objects onto a physical website shared with others. Other than that, I did not learn anything else. 
+
+### 2.2 What did you gain from ... 
+I gained a lot from the WODs. Specifically, I gained many skills related to perseverance and persistence. Persistence was something that tempered my numerous qualities. I struggled initially and kept referencing the screencast videos when I got stuck. Later on in the course, the screencast videos were removed, and I was forced to keep on going until I wanted the perfect score/time. I also gained experience and practice from the WODs. The WODs were extensions of the labs. If I didn't understand something from the labs, the WODs would give me more practice, which was very useful. 
+
+### 2.3 Were the quizzes ... 
+The quizzes didn't really help me prepare for the labs. To be honest, I felt like they limited your reading. All you needed to do was pick out specific points from the reading and use them for the quiz. I believe that just reading the posts was the best way to prepare for the labs. I did not really pay attention to the quizzes, although I did them all fairly well. 
+
+### 2.4 and 2.5 What did you learn from ... 
+The labs were a great way to put the readings into practice. I felt like I learned a lot, and my favorite lab was about forms. I felt like the whole lab went smoothly, and I even got the opportunity to help my friend (who is way better than me at coding). Additionally, I learned that the labs were quite simple. Most of the time, the questions had embedded directions (which were very specific). On the other hand, I learned how to write again with essays. This semester offered me little practice with writing, but these essays gave me the opportunity to stretch my legs a little. It made me learn how to examine myself and my situation. Overall, I learned a lot about myself and my coding with these essays. 
+
+### 2.6 What did you learn from doing Assignment ...
+Assignments 1 and 2 taught me a lot. The first thing I learned was the value of perseverance. These assignments gave me a headache, but they taught me to keep going despite the headache. One example was learning how to add hover text to an image. I was completely lost and ready to give up. However, instead of giving up, I focused my energy on finishing it. Additionally, these assignments taught me how to ask ChatGPT properly. Instead of being vague in your questions, you have to be very specific in order for the computer to know what to do. Lastly, I learned how to code from the basics. The assignments taught me how to code the basics and that the basics are key to understanding how the whole website works. Overall, the assignments were difficult but valuable at the same time. 
 
 ## 3. Challenges and Achievements
 
 ### 3.1 and 3.2 Detail the specific/ Explain how you overcame... 
-I remember encountering two specific challenges: understanding what code meant and how to find issues within the code. Finding issues in code was the most annoying, especially the WODs. Whenever I found an error and took too long, I had to stop the timer and re-record the video. This proved rather annoying, especially if I was already filming for a long time. The other challenge is understanding what the code meant. To overcome these challenges, all I could do was get over the challenge and keep on going. With this mindset, it forced me to learn how to do things. There is no way to sugarcoat it, but just by doing it. 
+I remember encountering two specific challenges: understanding what code meant and how to find issues within the code. Finding issues in code was the most annoying, especially the WODs. Whenever I found an error and took too long, I had to stop the timer and re-record the video. This proved rather annoying, especially if I was already filming for a long time. The other challenge is understanding what the code means. To overcome these challenges, all I could do was get over the challenge and keep on going. With this mindset, it forced me to learn how to do things. There is no way to sugarcoat it, but just by doing it. 
 
 ### 3.3 Highlight any particular ... 
 There were not many significant achievements or milestones for me because I felt pretty average at everything. If I were to label an achievement, it was that the "forms" lab clicked instantly for me. I did not struggle with what the code meant or how to code; it just clicked with me. While paying attention during the lesson likely contributed to my success, the reason why it clicked with me remains a mystery. I guess it serves as a reminder of the unpredictable nature of learning. Other than that, I don't know any achievements or milestones. 
