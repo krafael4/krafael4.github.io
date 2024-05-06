@@ -28,7 +28,7 @@ I think I am using the Assignments a lot, but it's true. The assignments were a 
 
 ### 1.6 Gaining confidence in addressing ... 
 My overall course experience is a great indicator. Each lab, each WOD, and each assignment improved my ability to find issues and address them properly. I usually sought the console or inspected the website to see the errors. Overall, each day at ITM made me a little bit more confident. 
-<br>
+
 
 ## 2. Course Elements and Personal Engagement
 <br>
@@ -47,7 +47,7 @@ The labs were a great way to put the readings into practice. I felt like I learn
 
 ### 2.6 What did you learn from doing Assignment ...
 Assignments 1 and 2 taught me a lot. The first thing I learned was the value of perseverance. These assignments gave me a headache, but they taught me to keep going despite the headache. One example was learning how to add hover text to an image. I was completely lost and ready to give up. However, instead of giving up, I focused my energy on finishing it. Additionally, these assignments taught me how to ask ChatGPT properly. Instead of being vague in your questions, you have to be very specific in order for the computer to know what to do. Lastly, I learned how to code from the basics. The assignments taught me how to code the basics and that the basics are key to understanding how the whole website works. Overall, the assignments were difficult but valuable at the same time. 
-<br>
+
 ## 3. Challenges and Achievements
 <br>
 
@@ -56,14 +56,14 @@ I remember encountering two specific challenges: understanding what code meant a
 
 ### 3.3 Highlight any particular ... 
 There were not many significant achievements or milestones for me because I felt pretty average at everything. If I were to label an achievement, it was that the "forms" lab clicked instantly for me. I did not struggle with what the code meant or how to code; it just clicked with me. While paying attention during the lesson likely contributed to my success, the reason why it clicked with me remains a mystery. I guess it serves as a reminder of the unpredictable nature of learning. Other than that, I don't know any achievements or milestones. 
-<br>
+
 ## 4. Skill Development and Application
 <br>
 
 ### 4.1 and 4.2 Reflect on the three skills/ Describe how the hands-on ... 
 The three levels in this course include syntactic, algorithmic, and application. Syntactic relates to understanding or writing code. Algorithmic is designing algorithms. Application is taking the first two levels and applying them to something like a website. I would say that the first level was the hardest for me to get out of. I did not know any code, and understanding the basic topics was very difficult for me. I think the most difficult concept for me to wrap my head around was the different coding languages. This level was very stressful as well because we kept on moving to different topics each week. I would have to admit there were tears because of this level. The next level would be algorithmic. This was another very difficult level as we had to take our understanding of how to write code, but now create code from the start. The difficulty came from thinking of what to code and how to code it. The last level is application, which was the easiest. It combined everything we have been doing, including labs, WODs, and exercises. I would say that I progressed fairly quickly at this level. The hands-on experience with web-based e-service greatly enhanced my understanding of MIS issues. In my opinion, these two assignments were the greatest lessons of this course. They showed me that perseverance is very important and without it, you may fall behind and get discouraged to continue. 
 
-<br>
+
 ## 5. Use of AI (e.g. ChatGPT)
 <br>
 
@@ -74,7 +74,7 @@ AI greatly enhanced my learning and productivity, specifically in how I understo
 AI greatly inhibited my learning and productivity, specifically in how lazy I would get with writing code. I sometimes relied too heavily on ChatGPT, and I suffered its consequences. Time constraints and the fact that I started a bit too late led me to use ChatGPT a lot. Assignment 2 is a great example of how it inhibited my learning, specifically my individual requirement. I had created "if statements" to create a loop that would increase the number of times I logged in, but then I was stuck on how to add the time. To solve that issue, I went to ChatGPT. Then, I got stuck on how the message could appear on the site. Again, I went to ChatGPT to solve that as well. I felt like ChatGPT made me lazy, especially when time was running out on my assignment. 
 
 
-<br>
+
 ## 6. Future Implications and Professional Growth
 <br>
 
