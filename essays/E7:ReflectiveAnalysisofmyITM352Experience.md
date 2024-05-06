@@ -9,8 +9,8 @@ labels:
 ---
 
 ## 1. Course Goals ITM 352 has the following goals:
-
-
+<br>
+<br>
 ### 1.1 Acquiring basic programming ... 
 A great example of this goal would be Assignment 1. In Assignment 1, I felt my basic programming skills come into play. I was able to utilize everything I learned from the beginning of the semester up until that point. For example, I was able to use CSS styling to format objects in a systematic and correct manner that displays functionality. 
 
